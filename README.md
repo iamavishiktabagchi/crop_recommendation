@@ -31,7 +31,7 @@ What makes this project particularly rewarding is its foundation in mathematical
 
 This project was a great learning experience in applying machine learning to real-world problems, and it strengthened my skills in data preprocessing, model selection, and evaluation.
 
-Sharing some SS of the work.
+Sharing some Screenshots of the work.
 <img width="567" height="203" alt="image" src="https://github.com/user-attachments/assets/b9047a5b-f2a6-446e-87e0-1b5a503348a5" />
 <img width="629" height="455" alt="image" src="https://github.com/user-attachments/assets/d2e0e8f3-5e5f-44cf-9475-691b45e37031" />
 <img width="595" height="486" alt="image" src="https://github.com/user-attachments/assets/eaa998fd-7e72-4586-a54e-c4377e464ccf" />
